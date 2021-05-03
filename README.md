@@ -15,9 +15,9 @@ This project examines the trend in childhood obesity rates in the United States 
 By exploring peer-reviewed journals, I explored potential causes for the rise in childhood obesity as well as the consequences that come with it. The research shows that by discovering the causes, potential solutions can be created that can take into account differences in socioeconomic and racial identity differences. Statistical analysis was used to explore the change in childhood obesity over time, as well as differences in obesity rates between children with different racial identities. 
 
 ## Needs of this project:
--Data exploration/descriptive statistics
--Statistical modeling
--Writeup/reporting
+- Data exploration/descriptive statistics
+- Statistical modeling
+- Writeup/reporting
 
 Raw Data is being kept [here](https://github.com/isabellaoakes/Childhood-Obesity-in-the-United-States/blob/main/National-Obesity-Monitor-Data.csv) within this repository.
 
